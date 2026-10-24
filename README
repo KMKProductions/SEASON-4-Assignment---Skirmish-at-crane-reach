@@ -1,0 +1,16 @@
+DESIGN GOAL:
+
+With this new objective added to the game, I wanted my army to really focus on capturing and securing the objective. I made the footman group up much quicker and push the zone, acting as the wall while the
+archers and cavalry played more offensive roles.
+
+REFLECTION:
+
+I finally used the chat function in this season. I ran into a lot of issues where my troops lacked the information to fulfill their role to the fullest; for example, not seeing an enemy that an ally sees.
+Adding the chat function improved the cooperation of the army by making them talk to each other.
+I also used the lookAhead function to improve cavalry efficiency. I wanted my cavalry to prioritize targeting archers, but that sometimes meant they would waste turns not doing the optimal play. For example,
+if the archer was too far, the cavalry would not attack anything that turn. Using lookAhead allowed me to make sure that cavalry troops were more efficient.
+
+AI DISCLOSURE:
+
+I used Claude Code extensively in this assignment. Claude helped me modify and improve my code. I checked its work by rereading its changes and watching the agent with every modification.
+Using this coding agent definitely made the assignment easier and coding it was faster.
